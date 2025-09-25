@@ -1,0 +1,153 @@
+:root{
+    --default: #fea500;
+    --light: #fbfbfb;
+    --dark: #332D2D;
+}
+
+body{
+    background: var(--default);
+}
+
+#banner{
+    position: relative;
+}
+
+#banner::after{
+    content: "";
+    position: absolute;
+    background-color: #fbfbfb;
+    top: 0;
+    right: -20px;
+    height: 20px;
+    width: 100px;
+    transform: skew(-50deg);
+    z-index: -1;
+}
+
+#banner::before{
+    content: "";
+    position: absolute;
+    background-color: #fbfbfb;
+    bottom: 0;
+    right: -20px;
+    height: 20px;
+    width: 100px;
+    transform: skew(50deg);
+    z-index: -1;
+}
+
+#link-order{
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+#link-order::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fbfbfb;
+    transform-origin: right;
+    transition: transform .3s;
+    transform: scaleX(0);
+    z-index: -1;
+}
+
+#link-order:hover{
+    color: #332D2D !important;
+ }
+
+#link-order:hover::after{
+   transform: scaleX(1);
+   transform-origin: left;
+}
+
+#nav li a{
+    background: none;
+    border-bottom: none;
+    position: relative;
+}
+
+
+#nav li a::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3px;
+    width: 100%;
+    background-color: #fbfbfb;
+    transform: scaleX(0);
+    transition: transform .3s;
+    transform-origin: right;
+}
+
+#nav li a:hover::before{
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+#nav li .active::before{
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+
+/* MENU */
+#categories li{
+    border-bottom: 1px dashed #fbfbfb;
+}
+
+#add , #subtract{
+    background: var(--default);
+    padding: 10px 20px;
+    border-radius: 0;
+}
+
+#add{
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+#subtract{
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+
+#quantity{
+    border-radius: 0;
+}
+
+#order, #cart{
+    background: var(--default);
+}
+
+
+.navbar-top{
+    background: var(--default);
+    border-bottom: 3px solid var(--light) !important;
+}
+
+.button{
+    background: var(--default) !important;
+}
+
+.nav-pills .active{
+    background: var(--default) !important;
+    color: #fbfbfb !important;
+}
+
+#admin-dashboard .active{
+    background: var(--light);
+    color: var(--dark) !important;
+}
+
+@media (max-width: 960px){
+    #main{
+        padding-top: 70px;
+    }
+}

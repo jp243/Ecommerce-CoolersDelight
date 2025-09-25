@@ -1,0 +1,102 @@
+Error: [4096] Object of class mysqli could not be converted to string - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Array to string conversion - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Undefined property: mysqli::$Array - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Array to string conversion - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Undefined property: mysqli::$Array - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Array to string conversion - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Undefined property: mysqli::$Array - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Array to string conversion - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Trying to get property 'Array' of non-object - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Array to string conversion - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Undefined property: mysqli::$Array - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Array to string conversion - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Trying to get property 'Array' of non-object - C:\wamp64\www\cool\api\crud.php:19 
+Error: [4096] Object of class mysqli could not be converted to string - C:\wamp64\www\cool\api\crud.php:19 
+Error: [4096] Object of class mysqli could not be converted to string - C:\wamp64\www\cool\api\crud.php:19 
+Error: [4096] Object of class mysqli could not be converted to string - C:\wamp64\www\cool\api\crud.php:19 
+Error: [4096] Object of class mysqli could not be converted to string - C:\wamp64\www\cool\api\crud.php:19 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: action - C:\wamp64\www\cool\api\crud.php:4 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:62 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: action - C:\wamp64\www\cool\api\crud.php:4 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:68 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:68 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:35 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:52 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:68 
+Error: [2] A non-numeric value encountered - C:\wamp64\www\cool\api\crud.php:70 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:39 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:56 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:74 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:39 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:56 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:74 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:39 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:56 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:74 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:39 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:56 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:74 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:39 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:56 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:74 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:39 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:56 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:74 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:39 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:56 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:39 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\crud.php:56 
+Error: [8] Trying to get property 'id' of non-object - C:\wamp64\www\cool\api\confirmorder.php:27 
+Error: [8] Trying to get property 'id' of non-object - C:\wamp64\www\cool\api\confirmorder.php:28 
+Error: [8] Undefined index: user - C:\wamp64\www\cool\api\confirmorder.php:14 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:41 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:41 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:41 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:41 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:44 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:44 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:44 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:44 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:44 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:44 
+Error: [8] Undefined variable: pdo - C:\wamp64\www\cool\api\confirmorder.php:41 
